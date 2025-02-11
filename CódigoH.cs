@@ -21,7 +21,7 @@ namespace PATrilhasAtiv06
 			Console.WriteLine();
 			Console.ReadKey(true);
 		}
-    
+
 	}
   
 }
